@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:7:5-24:19
+14        android:allowBackup="true"
+14-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\b2b51ad2129f7ae88186ad90508b79ab\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity android:name="com.example.myapplication.ResetSenha" />
+23-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:14:9-57
+23-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:14:19-45
+24        <activity android:name="com.example.myapplication.Perfil" />
+24-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:15:9-44
+24-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:15:19-41
+25        <activity android:name="com.example.myapplication.Cadastro" />
+25-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:16:9-46
+25-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:16:19-43
+26        <activity android:name="com.example.myapplication.Login" >
+26-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:17:9-23:20
+26-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:17:19-40
+27            <intent-filter>
+27-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:18:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:19:17-69
+28-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:21:17-77
+30-->C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->[com.google.android.gms:play-services-base:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\9121315046fc1b3ad204bc6ebbbfbad5\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:9-172
+34            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+34-->[com.google.android.gms:play-services-base:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\9121315046fc1b3ad204bc6ebbbfbad5\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:19-85
+35            android:exported="false"
+35-->[com.google.android.gms:play-services-base:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\9121315046fc1b3ad204bc6ebbbfbad5\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:146-170
+36            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+36-->[com.google.android.gms:play-services-base:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\9121315046fc1b3ad204bc6ebbbfbad5\jetified-play-services-base-9.6.1\AndroidManifest.xml:19:86-145
+37
+38        <provider
+38-->[com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:9-175
+39            android:name="com.google.firebase.provider.FirebaseInitProvider"
+39-->[com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:79-124
+40            android:authorities="com.example.myapplication.firebaseinitprovider"
+40-->[com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:19-78
+41            android:exported="false"
+41-->[com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:125-149
+42            android:initOrder="100" />
+42-->[com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:6:150-173
+43
+44        <meta-data
+44-->[com.google.android.gms:play-services-basement:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\fc93a94ea88d560391c8adec9ad315d1\jetified-play-services-basement-9.6.1\AndroidManifest.xml:20:9-121
+45            android:name="com.google.android.gms.version"
+45-->[com.google.android.gms:play-services-basement:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\fc93a94ea88d560391c8adec9ad315d1\jetified-play-services-basement-9.6.1\AndroidManifest.xml:20:20-65
+46            android:value="@integer/google_play_services_version" />
+46-->[com.google.android.gms:play-services-basement:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\fc93a94ea88d560391c8adec9ad315d1\jetified-play-services-basement-9.6.1\AndroidManifest.xml:20:66-119
+47    </application>
+48
+49</manifest>
