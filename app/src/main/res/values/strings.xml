@@ -1,0 +1,22 @@
+<resources>
+    <string name="login">Login</string>
+    <string name="app_name">My Application</string>
+    <string name="email_Login">Email</string>
+    <string name="senha_Login">Senha</string>
+    <string name="logar">Logar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="esqueci_a_senha">Esqueci a senha</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="email_Cadastro">Email</string>
+    <string name="senha_Cadastro">Senha</string>
+    <string name="registrar">Registrar</string>
+    <string name="voltar">Voltar</string>
+    <string name="perfil">Perfil</string>
+    <string name="email_Perfil">Email</string>
+    <string name="id">ID</string>
+    <string name="logout">Logout</string>
+    <string name="resetar_senha">Resetar Senha</string>
+    <string name="resetar">Resetar</string>
+    <string name="email">Email</string>
+
+</resources>
