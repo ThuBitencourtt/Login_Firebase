@@ -5,11 +5,13 @@ INJECTED from C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main
 INJECTED from C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:2:1-26:12
 INJECTED from C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\fb2eba3bb5e4d9ddc3f59e0bb7d22dad\jetified-firebase-auth-9.6.1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\bd62f4483d5f14d50b21e20d9c797e78\jetified-firebase-database-9.6.1\AndroidManifest.xml:2:1-4:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\95c27f1e561f59170f577bf124144243\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\99263ae0355f528cdb252f81976d504b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\580dca13caab29264aa36221cf893600\jetified-firebase-auth-common-9.6.1\AndroidManifest.xml:16:1-21:12
 MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\26c5fd1802b3793861faa8edb33f4b39\jetified-firebase-auth-module-9.6.1\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\9121315046fc1b3ad204bc6ebbbfbad5\jetified-play-services-base-9.6.1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\c9e2ceb88019c01c81daf522b1b2d700\jetified-firebase-database-connection-9.6.1\AndroidManifest.xml:2:1-4:12
 MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\83f19fea678eaa6cd12bfb9ff753f1d6\jetified-play-services-tasks-9.6.1\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\fc93a94ea88d560391c8adec9ad315d1\jetified-play-services-basement-9.6.1\AndroidManifest.xml:16:1-23:12
@@ -130,6 +132,8 @@ INJECTED from C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main
 INJECTED from C:\Users\Thuani\Documents\TCC\Projetos\Firebase_Login\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\fb2eba3bb5e4d9ddc3f59e0bb7d22dad\jetified-firebase-auth-9.6.1\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\fb2eba3bb5e4d9ddc3f59e0bb7d22dad\jetified-firebase-auth-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\bd62f4483d5f14d50b21e20d9c797e78\jetified-firebase-database-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\bd62f4483d5f14d50b21e20d9c797e78\jetified-firebase-database-9.6.1\AndroidManifest.xml:3:5-42
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\95c27f1e561f59170f577bf124144243\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\95c27f1e561f59170f577bf124144243\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\99263ae0355f528cdb252f81976d504b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
@@ -140,6 +144,8 @@ MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\Thuani\.gr
 MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\26c5fd1802b3793861faa8edb33f4b39\jetified-firebase-auth-module-9.6.1\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\9121315046fc1b3ad204bc6ebbbfbad5\jetified-play-services-base-9.6.1\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\9121315046fc1b3ad204bc6ebbbfbad5\jetified-play-services-base-9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\c9e2ceb88019c01c81daf522b1b2d700\jetified-firebase-database-connection-9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\c9e2ceb88019c01c81daf522b1b2d700\jetified-firebase-database-connection-9.6.1\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\5a31b53d99f8e316ad7597af6fb7dd22\jetified-firebase-common-9.6.1\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Thuani\.gradle\caches\transforms-2\files-2.1\83f19fea678eaa6cd12bfb9ff753f1d6\jetified-play-services-tasks-9.6.1\AndroidManifest.xml:3:5-42

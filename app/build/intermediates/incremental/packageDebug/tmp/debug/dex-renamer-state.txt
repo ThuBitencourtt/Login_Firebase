@@ -1,4 +1,4 @@
-#Fri Jun 12 13:37:40 BRT 2020
+#Sat Jun 13 13:27:01 BRT 2020
 base.0=C\:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

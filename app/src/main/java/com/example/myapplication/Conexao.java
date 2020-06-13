@@ -11,6 +11,7 @@ public class Conexao {
     private static FirebaseAuth.AuthStateListener authStateListener;
     private static FirebaseUser firebaseUser;
 
+
     private Conexao(){
     }
 

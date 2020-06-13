@@ -23,6 +23,7 @@ anim btn_radio_to_off_mtrl_ring_outer_path_animation
 anim btn_radio_to_on_mtrl_dot_group_animation
 anim btn_radio_to_on_mtrl_ring_outer_animation
 anim btn_radio_to_on_mtrl_ring_outer_path_animation
+array tipo
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -902,6 +903,7 @@ id showCustom
 id showHome
 id showTitle
 id spacer
+id spin_tipo
 id split_action_bar
 id spread
 id spread_inside

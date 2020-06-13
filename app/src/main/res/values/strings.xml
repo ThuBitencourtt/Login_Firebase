@@ -19,4 +19,10 @@
     <string name="resetar">Resetar</string>
     <string name="email">Email</string>
 
+    <string-array name="tipo">
+        <item>  </item>
+        <item>Professor</item>
+        <item>Aluno</item>
+    </string-array>
+
 </resources>

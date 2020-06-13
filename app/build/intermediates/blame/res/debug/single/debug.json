@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastro.xml.flat",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\Thuani\\Documents\\TCC\\Projetos\\Firebase_Login\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
