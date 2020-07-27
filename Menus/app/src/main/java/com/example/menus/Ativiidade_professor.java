@@ -1,7 +1,5 @@
 package com.example.menus;
 
-
-import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProviders;
@@ -10,6 +8,7 @@ import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -21,21 +20,17 @@ import com.example.menus.ui.professor.Professor;
 
 import static com.example.menus.MainActivity.BANDA_KEY;
 
+public class Ativiidade_professor extends Fragment {
 
-/**
- * A simple {@link Fragment} subclass.
- */
-public class Conteudo extends Fragment {
 
     private TextView txt_hello;
-    private Button btn_voltar;
 
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View view = inflater.inflate(R.layout.fragment_conteudo, container, false);
+        View view = inflater.inflate(R.layout.fragment_professor_atividade, container, false);
 
         initViews(view);
 
@@ -43,19 +38,13 @@ public class Conteudo extends Fragment {
             String nomeBanda = getArguments().getString(BANDA_KEY);
             txt_hello.setText(nomeBanda);
         }
-        btn_voltar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                replaceFragment(new Professor());
-            }
-        });
+
 
         return view;
     }
 
     private void initViews(View view) {
-        txt_hello = view.findViewById(R.id.txt_hello);
-        btn_voltar = view.findViewById(R.id.btn_voltar);
+        txt_hello = view.findViewById(R.id.text_hello);
     }
 
     private void replaceFragment(Fragment fragment) {
